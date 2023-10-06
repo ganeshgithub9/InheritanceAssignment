@@ -1,0 +1,2 @@
+# InheritanceAssignment
+Created schema
